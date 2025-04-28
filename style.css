@@ -185,8 +185,8 @@ a {
 }
 
 .contact-link:hover {
-    background-color: #34495e; /* Slightly lighter blue on hover */
-    transform: scale(1.1); /* Slightly grow the button on hover */
+    background-color: #87CEEB;
+    transform: scale(1.1); 
 }
 
 .contact-link:focus {
